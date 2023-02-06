@@ -1,3 +1,5 @@
+![logo](https://github.com/tasrif-ahmed/tasrif-ahmed/blob/main/_Tasrif%20Ahmed_.png)
+
 <h1 align="center">Hi 👋, I'm Tasrif Ahmed</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
